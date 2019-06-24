@@ -1,0 +1,14 @@
+{
+  "name": "docker-sampleapp",
+  "version": "1.0.0",
+  "description": "Sample App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Joy Rana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
